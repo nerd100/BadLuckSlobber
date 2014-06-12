@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Ground.x</Source>
+      <Name>Ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Ground.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Ground_0.xml</Key>
+        <Value>2014-06-10T16:24:43.841+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Ground_0.xml</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Checker_0.xnb</Output>
+      <Time>2010-09-13T11:40:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Slobber.x</Source>
+      <Name>Slobber</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Slobber.xnb</Output>
+      <Time>2014-06-10T17:24:07.799+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Slobber_0.xml</Key>
+        <Value>2014-06-10T17:24:09.589+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Slobber.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Slobber_0.xml</Output>
+      <Time>2014-06-10T17:24:07.799+02:00</Time>
+    </Item>
+    <Item>
+      <Source>georgia.spritefont</Source>
+      <Name>georgia</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\georgia.xnb</Output>
+      <Time>2014-06-10T17:50:55.27+02:00</Time>
+    </Item>
+    <Item>
+      <Source>HealtBar.png</Source>
+      <Name>HealtBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\HealtBar.xnb</Output>
+      <Time>2014-06-10T18:07:56.408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Health.png</Source>
+      <Name>Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Health.xnb</Output>
+      <Time>2014-06-10T18:07:56.411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dome.x</Source>
+      <Name>dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\dome.xnb</Output>
+      <Time>2014-06-12T16:50:48.619+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\dome_0.xml</Key>
+        <Value>2014-06-12T16:57:32.529+02:00</Value>
+      </Dependency>
+      <Request>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>cloudMap.jpg</Source>
+      <Name>cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\cloudMap.xnb</Output>
+      <Time>2014-06-12T16:49:28.646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\dome_0.xml</Output>
+      <Time>2014-06-12T16:50:48.619+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\cloudMap_0.xnb</Output>
+      <Time>2014-06-12T16:49:28.646+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dennis\Desktop\Chase camera\ChaseCameraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dennis\Desktop\Chase camera\ChaseCameraContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-04T22:34:33.1238+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

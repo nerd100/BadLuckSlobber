@@ -1,0 +1,2 @@
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCameraContent\obj\x86\Debug\ChaseCameraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Chase camera\ChaseCameraContent\obj\x86\Debug\ChaseCameraContent.contentprojResolveAssemblyReference.cache

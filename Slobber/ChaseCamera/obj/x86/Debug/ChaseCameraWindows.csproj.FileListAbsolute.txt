@@ -1,0 +1,31 @@
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\GameThumbnail.png
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\Content\Ground.xnb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\Content\Ship.xnb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\Content\Checker_0.xnb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\Content\ShipDiffuse_0.xnb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\ChaseCamera.exe.config
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\ChaseCamera.exe
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\bin\x86\Debug\ChaseCamera.pdb
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\obj\x86\Debug\ChaseCameraWindows.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\obj\x86\Debug\ChaseCamera.exe
+C:\Users\Dennis\Desktop\Neuer Ordner (4)\ChaseCamera\obj\x86\Debug\ChaseCamera.pdb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\GameThumbnail.png
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Ground.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Checker_0.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\ChaseCamera.exe.config
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\ChaseCamera.exe
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\ChaseCamera.pdb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\obj\x86\Debug\ChaseCameraWindows.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\obj\x86\Debug\ChaseCamera.exe
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\obj\x86\Debug\ChaseCamera.pdb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Slobber.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\georgia.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\HealtBar.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\Health.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\dome.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\cloudMap.xnb
+C:\Users\Dennis\Desktop\Chase camera\ChaseCamera\bin\x86\Debug\Content\cloudMap_0.xnb
